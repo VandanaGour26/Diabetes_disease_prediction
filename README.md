@@ -9,6 +9,5 @@ Algorithm used: Logistic Regression (or replace with your model)
 Trained on: Diabetes Dataset
 
 Evaluation Metrics: Accuracy, Precision, Recall, F1-score
-
-## User Interface using Streamlit
+ 
 
